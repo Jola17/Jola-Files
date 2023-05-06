@@ -83,7 +83,9 @@ header .fa-bars{
   display: flex;
   align-items: center;
   min-height: 100vh;
-  background:url(../images/home-bg.jpg) no-repeat;
+  background:url(https://user-images.githubusercontent.com/132247654/236618431-edcd374e-9db9-4e1c-b566-64bd87957159.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 
